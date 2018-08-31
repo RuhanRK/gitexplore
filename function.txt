@@ -1,3 +1,4 @@
+
 onefunction - This is very very one function
 onefunction - This is more important function
 TwoFunction -This two function
@@ -9,3 +10,6 @@ newerFunction - This is newer Function
 This is new function made by confly
 
 added a code for logout
+
+adding a new function to login user via X method
+
