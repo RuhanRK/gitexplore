@@ -1,5 +1,0 @@
-#This is comment
-
-*.js
-!app.js
-index.php
