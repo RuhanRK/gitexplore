@@ -1,4 +1,4 @@
-onefunction - This is one function
+onefunction - This is very very one function
 onefunction - This is more important function
 TwoFunction -This two function
 Threefunction - This is Three function
@@ -7,3 +7,5 @@ newFunction - This is new function
 newerFunction - This is newer Function
 
 This is new function made by confly
+
+added a code for logout
